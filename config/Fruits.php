@@ -1,0 +1,51 @@
+<?php
+
+return [
+    "Mango",
+    "Oranges",
+    "Banana",
+    "Pawpaw",
+    "Pineapples",
+    "Apples",
+    "Watermelons",
+    "Soursoups",
+    "Berries",
+];
+
+/*
+
+
+            "Bananas",
+"Mangoes",
+"Pineapples",
+"pomegranate",
+"Oranges",
+"Watermelons",
+"Pawpaws (Papayas)",
+"Avocados",
+//"Passion Fruits",
+//"Guavas",
+//"Tamarind",
+"Apples",
+"Pears",
+//"Plums",
+//"Peaches",
+"Lemons",
+//"Limes",
+//"Grapes",
+//"Strawberries",
+"Dates",
+//"Coconuts",
+//"Jackfruit",
+//"Lychees",
+"Dragon Fruit (Pitaya)",
+"Soursop (Graviola)",
+//    "Mulberries",
+//"Gooseberries",
+//"Raspberries",
+//"Blackberries",
+//"Strawberries",
+//"Cranberries",
+            "eggs",
+            "eggs",
+            "eggs",*/
